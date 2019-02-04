@@ -40,7 +40,7 @@ And Darius Kazemi's [76 bots](https://twitter.com/tinysubversions/lists/darius-k
 ## Conversational bots
 
 - [ELIZA](https://en.wikipedia.org/wiki/ELIZA). In case you can't afford a therapist. Passed the Turing test with just a few regular expressions.
-- [Mitsuku](https://www.pandorabots.com/mitsuku/). In a Turing test, the best attack is defense.
+- [Mitsuku](https://www.pandorabots.com/mitsuku/). makes you wonder if _you_ pass the Turign test
 
 ## Research papers
 
