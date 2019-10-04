@@ -44,6 +44,7 @@ And Darius Kazemi's [76 bots](https://twitter.com/tinysubversions/lists/darius-k
 
 ## Research papers
 
+- [Humoroids - Conversational Agents That Induce Positive Emotions With Humour](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/63991/1/Humoroids%20-%20Coversational%20Agents%20That%20Induce%20Positive%20Emotions%20with%20Humor.pdf)
 - [That’s What She Said: Double Entendre Identification](http://www.aclweb.org/anthology/P11-2016)
 - [Dank Learning: Generating Memes Using Deep Neural Networks](https://arxiv.org/abs/1806.04510)
 - [Unsupervised joke generation from big data](http://homepages.inf.ed.ac.uk/s0894589/petrovic13unsupervised.pdf)
