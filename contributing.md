@@ -16,3 +16,7 @@ Feel free to explain your motivation in the pull request or just let your links 
 ## Removing examples of artificial humour
 
 For every item you remove, please explain in the pull request why you believe it doesn't cut it.
+
+## Beware
+
+The default branch in this project is called `main`, not `master`. Sorry for the inconvenience, this is required by [the awesome project](https://github.com/sindresorhus/awesome).
