@@ -8,6 +8,7 @@ Make sure that every item you have added:
 - is funny and original (i.e. _awesome_)
 - contains a link
 - but also a short description. If it's a research paper, use its abstract instead.
+- doesn't contain any fluff, i.e. images or long walls of text
 - is in the correct section of the list
 
 Feel free to explain your motivation in the pull request or just let your links speak for themselves.
