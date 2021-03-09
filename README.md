@@ -1,7 +1,7 @@
 # awesome-artificial-humour
 A curated list of great examples of AI-driven humour
 
-Pull requests welcome.
+[Pull requests welcome](contributing.md).
 
 ## Generative bots
 
