@@ -1,7 +1,19 @@
-# awesome-artificial-humour
-A curated list of great examples of AI-driven humour
+# Awesome Artificial Humour [![Awesome](https://awesome.re/badge.svg)](https://github.com/vadim0x60/awesome-artificial-humour)
 
-[Pull requests welcome](contributing.md).
+*What is Artificial Humour?* I am glad you asked! It is anything that automates the generation of jokes (in any format, but usually text). 
+*What is this?* A curated list of best  examples of Artificial Humour online. 
+
+Is something cool missing? [Pull requests welcome!](contributing.md).
+
+## Contents
+
+- [Awesome Artificial Humour ![Awesome](https://github.com/vadim0x60/awesome-artificial-humour)](#awesome-artificial-humour-)
+  - [Contents](#contents)
+  - [Generative bots](#generative-bots)
+    - [In English](#in-english)
+    - [In Russian](#in-russian)
+  - [Conversational bots](#conversational-bots)
+  - [Research papers](#research-papers)
 
 ## Generative bots
 
