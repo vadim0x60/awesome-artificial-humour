@@ -1,7 +1,8 @@
 # Awesome Artificial Humour [![Awesome](https://awesome.re/badge.svg)](https://github.com/vadim0x60/awesome-artificial-humour)
 
-*What is Artificial Humour?* I am glad you asked! It is anything that automates the generation of jokes (in any format, but usually text). 
-*What is this?* A curated list of best  examples of Artificial Humour online. 
+**What is Artificial Humour?** I am glad you asked! It is anything that automates the generation of jokes (in any format, but usually text). 
+
+**What is this?** A curated list of best  examples of Artificial Humour online. 
 
 Is something cool missing? [Pull requests welcome!](contributing.md).
 
