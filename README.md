@@ -8,8 +8,6 @@ Is something cool missing? [Pull requests welcome!](contributing.md)
 
 ## Contents
 
-- [Awesome Artificial Humour ![Awesome](https://github.com/vadim0x60/awesome-artificial-humour)](#awesome-artificial-humour-)
-  - [Contents](#contents)
   - [Generative bots](#generative-bots)
     - [In English](#in-english)
     - [In Russian](#in-russian)
