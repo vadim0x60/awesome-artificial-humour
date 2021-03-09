@@ -1,6 +1,5 @@
 <!-- omit in toc -->
-# Awesome Artificial Humour 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/vadim0x60/awesome-artificial-humour)
+# Awesome Artificial Humour [![Awesome](https://awesome.re/badge.svg)](https://github.com/vadim0x60/awesome-artificial-humour)
 
 **What is Artificial Humour?** I am glad you asked! It is anything that automates the generation of jokes (in any format, but usually text). 
 
