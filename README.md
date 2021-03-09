@@ -4,7 +4,7 @@
 
 **What is this?** A curated list of best  examples of Artificial Humour online. 
 
-Is something cool missing? [Pull requests welcome!](contributing.md).
+Is something cool missing? [Pull requests welcome!](contributing.md)
 
 ## Contents
 
